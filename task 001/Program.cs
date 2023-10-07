@@ -1,5 +1,5 @@
-﻿int number1 = 5;
-int number2 = 7;
+﻿int number1 = -9;
+int number2 = -3;
 int max = number1;
 if (number2 > max)
 {
